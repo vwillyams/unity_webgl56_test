@@ -1,0 +1,116 @@
+{
+  "webgl-5-6": {
+    "unity": {
+      "runUnitTests": false,
+      "failedUnitTestFailsBuild": true,
+      "failedIntegrationTestFailsBuild": true,
+      "playerExporter": {
+        "export": true,
+        "buildOptions": [
+          "None"
+        ],
+        "sceneList": [
+
+        ]
+      },
+      "editorUserBuildSettings": {
+      },
+      "playerSettings": {
+        "bundleIdentifier": "WebGL"
+      },
+      "unitTestMethod": "",
+      "integrationTestMethod": "",
+      "integrationTestSceneList": [
+
+      ],
+      "preExportMethod": "",
+      "postExportMethod": ""
+    },
+    "platform": "webgl",
+    "projectid": "victorw/webgl-test",
+    "executablename": "WebGL 5.6"
+  },
+  "webgl-5-5": {
+    "unity": {
+      "runUnitTests": false,
+      "failedUnitTestFailsBuild": true,
+      "failedIntegrationTestFailsBuild": true,
+      "playerExporter": {
+        "export": true,
+        "buildOptions": [
+          "None"
+        ],
+        "sceneList": [
+
+        ]
+      },
+      "editorUserBuildSettings": {
+      },
+      "playerSettings": {
+        "bundleIdentifier": "WebGL"
+      },
+      "unitTestMethod": "",
+      "integrationTestMethod": "",
+      "integrationTestSceneList": [
+
+      ],
+      "preExportMethod": "",
+      "postExportMethod": ""
+    },
+    "platform": "webgl",
+    "projectid": "victorw/webgl-test",
+    "executablename": "WebGL 5.5"
+  },
+  "default-webgl": {
+    "unity": {
+      "runUnitTests": false,
+      "failedUnitTestFailsBuild": true,
+      "failedIntegrationTestFailsBuild": true,
+      "playerExporter": {
+        "export": true,
+        "buildOptions": [
+          "None"
+        ],
+        "sceneList": [
+
+        ]
+      },
+      "editorUserBuildSettings": {
+      },
+      "playerSettings": {
+        "bundleIdentifier": "Default"
+      },
+      "unitTestMethod": "",
+      "integrationTestMethod": "",
+      "integrationTestSceneList": [
+
+      ],
+      "preExportMethod": "",
+      "postExportMethod": ""
+    },
+    "platform": "webgl",
+    "projectid": "victorw/webgl-test",
+    "executablename": "Default WebGL"
+  },
+  "default-mac-desktop-universal": {
+    "unity": {
+      "runUnitTests": false,
+      "failedUnitTestFailsBuild": true,
+      "failedIntegrationTestFailsBuild": true,
+      "playerExporter": {
+        "export": true,
+        "buildOptions": [
+          "None"
+        ]
+      },
+      "editorUserBuildSettings": {
+      },
+      "playerSettings": {
+        "bundleIdentifier": "Default"
+      }
+    },
+    "platform": "standaloneosxuniversal",
+    "projectid": "victorw/webgl-test",
+    "executablename": "Default Mac desktop Universal"
+  }
+}

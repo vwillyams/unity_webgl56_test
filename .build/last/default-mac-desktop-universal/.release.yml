@@ -1,0 +1,27 @@
+---
+platform: standaloneosxuniversal
+archives:
+- key: primary
+  name: ".ZIP file"
+  path: "**/*"
+  path_exclude:
+  - extra_data/**/*
+  - build_stats.json
+  public: false
+  primary: true
+  show_download: true
+  zip: true
+  zip_filename: Default Mac desktop Universal.zip
+- key: unit_tests
+  name: Unit Tests
+  path: test_data/unit_tests.xml
+  public: false
+  show_download: true
+- key: integration_tests
+  name: Integration Tests
+  path: test_data/integration_tests/*.xml
+  public: false
+  show_download: true
+  zip: true
+  zip_filename: integration_tests.zip
+success: true
